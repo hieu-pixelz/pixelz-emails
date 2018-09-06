@@ -1,0 +1,36 @@
+hr{
+    border:0;
+    height:1px;
+    background:#ccc;
+}
+.logo{
+    width:auto;
+    height:40px;
+}
+.no-margin{
+    margin:0 !important;
+}
+.text-big{
+    font-size:$h2-font-size;
+}
+.color-primary{
+    color:$primary-color !important;
+}
+.color-secondary{
+    color:$secondary-color !important;
+}
+.color-gray{
+    color:$medium-gray !important;
+}
+.color-white{
+    color:$white !important;
+}
+.text-bold{
+    font-weight: bold !important;
+}
+.bg-primary{
+    background-color: $primary-color !important;
+}
+.bg-black{
+    background-color: $black !important;
+}
