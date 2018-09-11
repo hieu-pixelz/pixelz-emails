@@ -10,6 +10,9 @@ hr{
 .no-margin{
     margin:0 !important;
 }
+.no-padding{
+    padding:0 !important;
+}
 .text-big{
     font-size:$h2-font-size;
 }
@@ -33,4 +36,20 @@ hr{
 }
 .bg-black{
     background-color: $black !important;
+}
+.tag{
+    font-size:12px;
+    font-weight: bold;
+    color:$secondary-color;
+    margin-bottom:5px;
+}
+.location{
+    font-size:16px;
+    line-height: 30px;
+    border-bottom:1px solid $primary-color;
+    font-weight: bold;
+}
+.quote-sign{
+    font-family: "Times New Roman", serif;
+    font-size:96px;
 }
