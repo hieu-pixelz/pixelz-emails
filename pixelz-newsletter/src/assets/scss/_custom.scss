@@ -16,6 +16,9 @@ hr{
 .text-big{
     font-size:$h2-font-size;
 }
+.text-small{
+    font-size:14px;
+}
 .color-primary{
     color:$primary-color !important;
 }
@@ -49,7 +52,9 @@ hr{
     border-bottom:1px solid $primary-color;
     font-weight: bold;
 }
-.quote-sign{
-    font-family: "Times New Roman", serif !important;
-    font-size:96px;
+.quote{
+    font-size:24px;
+    font-weight: bold;
+    line-height: 130%;
+    color:#000;
 }
